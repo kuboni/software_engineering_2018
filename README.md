@@ -1,3 +1,10 @@
-# My Awesome Book
+# 軟體工程
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* 授課教師：郭淑美
+
+* FTP：140.116.245.177      user name = SWclass
+
+* 助教信箱：P76064253@mail.ncku.edu.tw
+
+
+
