@@ -1,3 +1,17 @@
-# First Chapter
+# 3/7
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## Quality
+
+Maintenance, Speed\(time\), Management...
+
+* time
+* cost
+* errors \(inevitable\)
+* measuring progres
+
+* * * * * * ## Software Engineering 
+
+
+
+
+
