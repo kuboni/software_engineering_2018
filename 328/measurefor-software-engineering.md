@@ -39,15 +39,59 @@
 
 ---
 
-
-
-##### 量測
+##### Measure
 
 一個量化的指標，協助我們將現實世界表現於數學模型。Modeling
 
+##### Metric
+
+量化的數據，用以形容現實世界
+
+##### Indicator
+
+* Process indicator
+* project indicator
+* product indicator
+
+---
+
+## Metrics baseline 收集資料
+
+* 關於資料庫需要..
+
+1. 合理性的準確
+2. 越多越加
+3. 一致性
+4. 相似性
+
+-
+
+e.g.
+
+![](/assets/UCL-import.png)
+
+mR: mean of meoving range = 1.71
+
+UCL: Upper control limit = mR x 3.268 = 5.58
 
 
 
+-
+
+e.g.
+
+![](/assets/Individual control chart.png)
+
+Am: Average value
+
+UNPL: Upper Natural Process Limit
+
+* = mR\*2.66+Am = 8.25
+
+LNPL: Lower Natural Process Limit
+
+* = mR\*2.66 - Am = 0.55
+* standard derivation = \(UNPL-Am\)/3 = 152
 
 
 
