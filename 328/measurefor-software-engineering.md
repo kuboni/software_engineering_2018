@@ -35,9 +35,5 @@
 * 間接量測：indirect measures
   * e.g. quality, complexity, efficiency ...
 
-
-
-
-
-
+![](/assets/measure-metrics-indicator.png)
 
