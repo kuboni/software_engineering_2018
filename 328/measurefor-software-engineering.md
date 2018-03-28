@@ -62,6 +62,7 @@
 * 合理性的準確
 
 * 越多越加
+
 * 一致性
 * 相似性
 
@@ -90,7 +91,7 @@ UNPL: Upper Natural Process Limit
 LNPL: Lower Natural Process Limit
 
 * = mR\*2.66 - Am = 0.55
-* standard derivation = \(UNPL-Am\)/3 = 152
+* $$\sigma$$ : standard derivation = \(UNPL-Am\)/3 = 152
 
 
 
