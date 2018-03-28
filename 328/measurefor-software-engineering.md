@@ -59,10 +59,11 @@
 
 * 關於資料庫需要..
 
-1. 合理性的準確
-2. 越多越加
-3. 一致性
-4. 相似性
+* 合理性的準確
+
+* 越多越加
+* 一致性
+* 相似性
 
 -
 
@@ -70,11 +71,9 @@ e.g.
 
 ![](/assets/UCL-import.png)
 
-mR: mean of meoving range = 1.71
+mR: mean of moving range = 1.71
 
 UCL: Upper control limit = mR x 3.268 = 5.58
-
-
 
 -
 
