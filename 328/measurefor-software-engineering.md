@@ -37,3 +37,17 @@
 
 ![](/assets/measure-metrics-indicator.png)
 
+---
+
+
+
+##### 量測
+
+一個量化的指標，協助我們將現實世界表現於數學模型。Modeling
+
+
+
+
+
+
+
