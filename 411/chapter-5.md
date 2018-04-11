@@ -16,9 +16,9 @@ Project Scope
 * Context Free Questions \(CFQ\)
   * FOCUS : customer, overall goal, benefits
 
-
-
 ---
 
 #### Software Project Estimation
+
+
 
