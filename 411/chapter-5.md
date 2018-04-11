@@ -18,11 +18,11 @@ Project Scope
 
 ---
 
-#### Software Project Estimation 
+#### Software Project Estimation
 
 技術
 
-* decomposition technique model
+* decomposition technique model（切割）
   * Problem-based estimation
   * Process-based estimation
 * Empirical Estimation model（經驗法則）
