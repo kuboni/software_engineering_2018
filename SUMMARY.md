@@ -9,4 +9,5 @@
 * [4/11](411.md)
   * [chapter 5](411/chapter-5.md)
 * [4/18](418.md)
+  * [Chapter 6](418/chapter-6.md)
 
