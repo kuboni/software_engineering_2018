@@ -1,6 +1,8 @@
+# chapter 5
+
 chapter 5
 
-### Software Project Planning
+## Software Project Planning
 
 1. 專案目標
 2. 可行性分析
@@ -16,9 +18,7 @@ Project Scope
 * Context Free Questions \(CFQ\)
   * FOCUS : customer, overall goal, benefits
 
----
-
-#### Software Project Estimation
+### Software Project Estimation
 
 技術
 
@@ -27,6 +27,4 @@ Project Scope
   * Process-based estimation
 * Empirical Estimation model（經驗法則）
 * Automated Estimation model
-
-
 

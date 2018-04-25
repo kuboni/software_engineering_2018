@@ -1,6 +1,8 @@
+# Chapter 6
+
 project scheduling
 
-##### Define Task Set
+## Define Task Set
 
 * 決定 project type
   * Concept development - 市面尚未出現
@@ -9,6 +11,4 @@ project scheduling
   * application maintenance project
   * reengineering project
 * Adaptation Criteria
-
-
 

@@ -1,6 +1,8 @@
+# 4/11
+
 chapter 4
 
-### Metrics for Analysis Model
+## Metrics for Analysis Model
 
 1. Typical Size-Oriented Metrics
 2. Function-Oriented Metrics
@@ -39,25 +41,25 @@ chapter 4
 
 -
 
-#### Process Metrics
+### Process Metrics
 
-##### Defect Remove Efficiency \(DRE\)
+#### Defect Remove Efficiency \(DRE\)
 
 * For Project 
   * DRE = \(errors\) / \(errors+defects\)
 * For Process
-  * $$DRE_i$$ = $$errors_i$$/ \($$errors_i$$+$$errors_{i+1}$$\)
+  *  = / \(+\)
 
 -
 
-##### SSPI
+#### SSPI
 
 statistical software process improvement
 
 * Fish bone diagram
-  * ![](/assets/FIshbone-import.png)
+  * ![](../.gitbook/assets/fishbone-import.png)
 
-#### Product Metrics
+### Product Metrics
 
 1. Product Operation 
    1. Correctness
@@ -74,7 +76,7 @@ statistical software process improvement
    2. Reuseability
    3. Interoperability
 
-##### 評估之常見作法
+#### 評估之常見作法
 
 * Correctness
   * Operate correctly
@@ -89,7 +91,6 @@ statistical software process improvement
   * 易於使用與否
   * learning time, productivity, assessment of user
 * reliability
-
   * MTBF = MTTF + MTTR
   * MTBF = MTTF + MTTR
     * MTBF: Mean Time between failure
@@ -98,9 +99,5 @@ statistical software process improvement
 
 -
 
-#### Project Metrics
-
-
-
-
+### Project Metrics
 

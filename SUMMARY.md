@@ -1,13 +1,14 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [3/7](chapter1.md)
-* [3/14](314.md)
-* [3/21](321.md)
-* [3/28](328.md)
-  * [Measure\_for\_Software\_Engineering](328/measurefor-software-engineering.md)
-* [4/11](411.md)
-  * [chapter 5](411/chapter-5.md)
-* [4/18](418.md)
-  * [Chapter 6](418/chapter-6.md)
+* [3/7](3-7.md)
+* [3/14](3-14.md)
+* [3/21](3-21.md)
+* [3/28](3-28/README.md)
+  * [Measure\_for\_Software\_Engineering](3-28/measure_for_software_engineering.md)
+* [4/11](4-11/README.md)
+  * [chapter 5](4-11/chapter-5.md)
+* [4/18](4-18/README.md)
+  * [Chapter 6](4-18/chapter-6.md)
+* [4/25](4-25.md)
 
