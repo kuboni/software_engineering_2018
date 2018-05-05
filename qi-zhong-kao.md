@@ -46,10 +46,17 @@ Q11
 
 Q12
 
-* 
----
+* Why project planning resources
 
-why project planning resuorce --SEE OTS planning method CPM-floattime 甘特圖--milestone why risk management
+Q13
+
+* What is OTS planning method, CPM floattime gantte
+
+Q14
+
+* Why we need risk management?
+
+
 
 
 
