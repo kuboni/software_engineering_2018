@@ -48,7 +48,14 @@ Q4. What is the myths of software?
 
 A4.
 
+The myth of software can be divide into three primary part:
 
+1. manage
+   1. 
+2. customer
+   1. 
+3. engineers \(practitioner\)
+   1. 
 
 Q5
 
