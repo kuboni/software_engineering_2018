@@ -30,13 +30,25 @@ summarize:
 
 A2. 
 
-Q3
+Software = Computer program\(Code\) + Data + Documents
 
-* What is characteristics of Software ?
+**Q3. What is characteristics of Software ?**
 
-Q4
+A3.
 
-* What is the myths of software?
+1. engineered
+2. custom-built
+3. won't wear out
+4. changeable
+5. invisible
+6. tolerance
+7. can be metrics
+
+Q4. What is the myths of software?
+
+A4.
+
+
 
 Q5
 
