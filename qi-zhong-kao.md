@@ -1,12 +1,34 @@
 # 期中考複習
 
-Q1
 
-* Why and What is Software engineering?
 
-Q2
+**Q1. Why and What is Software engineering?**
 
-* What is Software \(at least 3 points\) ?
+A1. 
+
+We need software engineering since we concerned about:
+
+1. why it takes so long to accomplish a software project
+2. why development cost so high
+3. why can't we find all error before hand in software to customers
+4. why is it difficult to measure process as software developing
+
+{% hint style="info" %}
+summarize:
+
+1. time
+2. cost
+3. error
+4. measuring
+{% endhint %}
+
+ So, software engineering is :
+
+> ### **A manageable, technological discipline \(學科\) to help us finished software product on time and within cost constrain**.
+
+**Q2. What is Software \(at least 3 points\) ?**
+
+A2. 
 
 Q3
 
