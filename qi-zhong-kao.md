@@ -139,7 +139,20 @@ Where, CC represent to **Controlled Centralized**
 
              CD represent to **Controlled Decentralized**
 
-             DD represent to **Democratic Decentralized**  
+             DD represent to **Democratic Decentralized** 
+
+There are some considered factors offered by textbook:
+
+* the **difficulty**_ _of the problem.
+  * difficult - DD
+  * easy - CD or CC \( faster \)
+* the **size** of the resultant program\(s\)
+  * big - CC or CD
+  * small - DD
+* **team lifetime**
+  * DD - emotional factors
+* the degree of **problem modularizing**
+  * DD - high modularizing
 
 Q11
 
