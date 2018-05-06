@@ -105,7 +105,7 @@ A8.
 
 A9.
 
-使用evolutionary model提供我們更多的彈性並提高監督process進行的能力。evolutionary model會在一定時間或階段結束時，檢視我們的process狀態，透過評估對下一階段的狀態進行計畫。
+使用evolutionary model使我們的process更完整，並提高監督process進行的能力。evolutionary model會在一定時間或階段結束時，檢視我們的process狀態（迭代），透過評估對下一階段的狀態進行計畫。
 
 在教科書中題到了幾種常見的evolutionary model，其中包含：
 
@@ -120,10 +120,26 @@ A9.
   * 使用此模型時
     * 需要將process模組化
     * 因為可以快速推出新功能，對於搶客戶而言相當有利
+* spiral model
+  * consecutively repeat six region for each task
+    * customers communications
+    * planning
+    * risk analysis
+    * engineering
+    * construct & release
+    * customer evaluate
 
-Q10
+### **Q10. please describe project associative people of CC, CD, DD.**
 
-* please describe project associative people of CC, CD, DD.
+A10.
+
+the management of a project can be divide in three : CC, CD, and DD. 
+
+Where, CC represent to **Controlled Centralized**
+
+             CD represent to **Controlled Decentralized**
+
+             DD represent to **Democratic Decentralized**  
 
 Q11
 
@@ -135,7 +151,7 @@ Q12
 
 Q13
 
-* What is OTS planning method, CPM floattime gantte
+* What is OTS planning method, CPM float time gantt
 
 Q14
 
