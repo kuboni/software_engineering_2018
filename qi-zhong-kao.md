@@ -175,9 +175,11 @@ A12.
 
 to establish a pragmatic strategy for **controlling, tracking, and monitoring**
 
-Q13
+### Q13. What is OTS planning method, CPM float time gantt
 
-* What is OTS planning method, CPM float time gantt
+A13.
+
+
 
 ### Q14. Why we need risk management?
 
