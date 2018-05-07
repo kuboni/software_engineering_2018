@@ -153,22 +153,40 @@ There are some considered factors offered by textbook:
   * DD - emotional factors
 * the degree of **problem modularizing**
   * DD - high modularizing
+* the required **quality** and **reliability**
+  * CC or CD
+* the rigidity of **delivery date**
+  * CC or CD
+* the degree of **sociability**
+  * DD
 
-Q11
+### Q11. What is two method of software quality factor metrics 
 
-* What is two method of software quality factor metrics 
+A11.
 
-Q12
+the two method of software quality factor metrics are:
 
-* Why project planning resources
+* size-oriented metrics
+* function-oriented metrics
+
+### Q12. Why project planning resources?
+
+A12.
+
+to establish a pragmatic strategy for **controlling, tracking, and monitoring**
 
 Q13
 
 * What is OTS planning method, CPM float time gantt
 
-Q14
+### Q14. Why we need risk management?
 
-* Why we need risk management?
+A14.
+
+We need risk management since we need to
+
+1. reduce upheaval during project
+2. a greater ability to tracking and control a project
 
 
 
