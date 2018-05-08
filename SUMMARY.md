@@ -11,5 +11,6 @@
 * [4/18](4-18/README.md)
   * [Chapter 6](4-18/chapter-6.md)
 * [4/25](4-25.md)
+* [5/2](5-2.md)
 * [期中考複習](qi-zhong-kao.md)
 

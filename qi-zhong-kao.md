@@ -190,6 +190,16 @@ We need risk management since we need to
 1. reduce upheaval during project
 2. a greater ability to tracking and control a project
 
+## Review
+
+### Ch 8
+
+target of CM & RM
+
+* Configuration Management
+  * reduce  change effort
+  * improve and ease for changing accommodation
+
 
 
 
