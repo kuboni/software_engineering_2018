@@ -192,6 +192,20 @@ We need risk management since we need to
 
 ## Review
 
+### Ch 6
+
+* Critical Path Method
+* 
+### Ch 7
+
+risk management paradigm
+
+* plan
+* track
+* control
+* identify
+* analyze
+
 ### Ch 8
 
 target of CM & RM
@@ -199,8 +213,7 @@ target of CM & RM
 * Configuration Management
   * reduce  change effort
   * improve and ease for changing accommodation
-
-
-
-
+* Risk Management
+  * reduce upheaval during project
+  * a great ability to tracking and control project
 
