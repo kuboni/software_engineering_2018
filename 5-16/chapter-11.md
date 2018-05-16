@@ -28,5 +28,10 @@ description: analysis
     * 系統
 * 由不同角度檢視需求
 
+### Elicitation
+
+* feasibility
+* 誰要使用
+
 
 
