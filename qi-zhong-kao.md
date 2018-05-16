@@ -143,7 +143,7 @@ Where, CC represent to **Controlled Centralized**
 
 There are some considered factors offered by textbook:
 
-* the **difficulty**_ _of the problem.
+* the **difficulty** __of the problem.
   * difficult - DD
   * easy - CD or CC \( faster \)
 * the **size** of the resultant program\(s\)
