@@ -22,14 +22,32 @@
 
 ### 原則
 
-* 規劃
-  * 在testing前就已規劃好testing plan
-* 由小而大
-* 測試不可能無止無盡
-  * pareto principle
-    * 80/20
-* 可追蹤至顧客需求
-
 1.  效率
 2. 由獨立的第三者判定
+3. 規劃
+   * 在testing前就已規劃好testing plan
+4. 由小而大
+5. 測試不可能無止無盡
+   * pareto principle
+     * 80/20
+6. 可追蹤至顧客需求
+
+### 流程
+
+![test plan](../.gitbook/assets/image%20%282%29.png)
+
+* System test plan
+  * 根據需求與例外進行測試的設計
+* System integration test plan
+* Module/Unit test 
+
+### 方法
+
+* Unit Testing
+* Integration Testing
+* System Testing
+
+#### White-box method
+
+#### Black-box method
 
