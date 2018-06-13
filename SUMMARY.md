@@ -17,4 +17,5 @@
 * [期中考複習](qi-zhong-kao.md)
 * [6/6](6-6/README.md)
   * [Chapter 12](6-6/chapter-12.md)
+* [6/13](6-13.md)
 
